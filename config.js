@@ -39,14 +39,14 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6282393623017', 'erwinX', true],
-['6281354429979', 'Kikyy Public', true]
+['6281326494085', 'erwinX', true],
+['6281326494085', 'Kikyy Public', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6281354429979'
-global.nomorown = '6282393623017'
-global.nomorown1 = '6281354429979'
+global.nomorbot = '6281326494085'
+global.nomorown = '6281326494085'
+global.nomorown1 = '6281326494085'
 global.nomorown2 = '-'
 global.nomorwa = '0'
 
@@ -87,8 +87,8 @@ global.pdana = '0823 9362 3017'
 global.povo = '-'
 global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0813 5442 9979'
-global.ppulsa2 = '0823 1913 7201'
+global.ppulsa = '081326494085'
+global.ppulsa2 = '081326494085'
 global.psaweria = '-'
 
 
