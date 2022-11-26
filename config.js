@@ -39,8 +39,8 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281326494085', 'erwinX', true],
-['6281326494085', 'Kikyy Public', true]
+['6281326494085', 'Nitta Store', true],
+['6281326494085', 'Nitta Store', true]
 ]
 global.mods = []
 global.prems = []
